@@ -1,2 +1,19 @@
+# Don't track content of these folders
+
+
+# Don't track these files
 .DS_Store
 .bash_profile
+
+# Packages to ignore #
+######################
+# it's better to unpack these files and commit the raw source
+# git has its own built in compression methods
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
