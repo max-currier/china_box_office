@@ -95,8 +95,5 @@ The Chinese film market requires specific strategic considerations, especially i
 * BeautifulSoup
 * Seaborn
 * Matplotlib
-* Dateutil
-* Re
-* Requests
 * Statsmodels
 * Patsy
