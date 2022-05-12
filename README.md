@@ -3,7 +3,7 @@
 Max Currier
 
 ## Background
-Mainland Chinese box office revenue alone constitutes roughly 1/3 of the global market.Greater understanding of this market can significantly boost worldwide film revenue.
+Mainland Chinese box office revenue alone constitutes roughly 1/3 of the global market. A greater understanding of this market can significantly boost worldwide film revenue.
 
   <img src="viz/background_chart.png" alt="revenue" width="500"/>
 
